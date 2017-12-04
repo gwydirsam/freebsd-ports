@@ -1,0 +1,2 @@
+bin/circonus-agentd
+@dir %%ETCDIR%%d
